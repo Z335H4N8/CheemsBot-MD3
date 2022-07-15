@@ -41,22 +41,22 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['ur number'] //ur owner number
-global.ownername = "UMAR DEVIL"
+global.owner = ['923093639046'] //ur owner number
+global.ownername = "Mohsin raza"
 global.ytname = "YT: Umar" //ur yt chanel name
 global.socialm = "GitHub: umarmods" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bombdy
-global.botname = "DEVIL BOT" //ur bot name
+global.botname = "Mohsin BOT" //ur bot name
 global.websitex = "https://www.youtube.com/c/UMARMODS" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
 global.packname = "it's me Umar Devil\n\n\n\n\n\n\n👿👿👿 "
 global.author = "DARK UMAR"
 global.themeemoji = "👿"
 global.reactmoji = "😈"
-global.ownertag = ['wa.me/923165123719'] //ur owner tag
-global.ownernummenu = ['wa.me/923165123719'] //ur owner number in menu and all
+global.ownertag = ['wa.me/923093639046'] //ur owner tag
+global.ownernummenu = ['wa.me/923093639046'] //ur owner number in menu and all
 global.watermark = "umar Bot Inc." //ur watermark
 global.botscript = "https://github.com/Lol🐒"
 global.linkz1 = "https://chat.whatsapp.com/By2Ts0mVgc13d8II01eF5t"
